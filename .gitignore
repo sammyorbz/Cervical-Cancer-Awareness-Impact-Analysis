@@ -1,0 +1,26 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folders
+venv/
+env/
+
+# Power BI temporary or cache files
+*.pbix.cache
+*.pbit.cache
+
+# Large data files (optional)
+*.zip
+*.bak
+
+# Logs
+*.log
