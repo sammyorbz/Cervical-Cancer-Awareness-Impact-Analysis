@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+openpyxl
+
+
+| Library        | Purpose                                            |
+| -------------- | -------------------------------------------------- |
+| **pandas**     | For data cleaning, transformation, and analysis    |
+| **numpy**      | For numerical operations and array manipulation    |
+| **matplotlib** | For basic plotting and visualization               |
+| **seaborn**    | For advanced, aesthetic statistical visualizations |
+| **scipy**      | For performing t-tests and statistical analysis    |
+| **openpyxl**   | To read and write Excel files (.xlsx)              |
