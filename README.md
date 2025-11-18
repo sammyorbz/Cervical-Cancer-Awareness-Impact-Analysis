@@ -1,6 +1,6 @@
 # 📊 Cervical Cancer Awareness Study — Pre & Post Intervention Analysis
 
-![Project Banner](images/banner.png)
+![Project Banner](images/cervical.jpg)
 
 ---
 
@@ -203,6 +203,7 @@ Results show a significant increase in overall awareness and adequacy across all
 | Statistical Analysis | SciPy                         |
 | Visualization        | Matplotlib, Seaborn, Power BI |
 | Documentation        | Markdown, GitHub              |
+
 
 
 
